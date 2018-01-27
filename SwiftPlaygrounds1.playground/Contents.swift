@@ -14,3 +14,16 @@ myfirstvariable + mysecondvariable
 
 var mythirdvariable = myfirstvariable + mysecondvariable
 print(mythirdvariable)
+
+// Assignment #2 Intro to True or False
+var appState = false
+
+print(appState)
+
+//comparing variables using > (greater than) or < (less than)
+var numberOne = 5
+var numbwerTwo = 7
+
+//create a variable that holds the comparison of the two variables we just made
+
+var compare = numberOne > numbwerTwo
